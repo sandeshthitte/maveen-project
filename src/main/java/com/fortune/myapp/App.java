@@ -5,7 +5,7 @@ package com.fortune.myapp;
  */
 public class App {
 
-    private static final String MESSAGE = "Hello Malik ";
+    private static final String MESSAGE = "Hello";
 
     public App() {}
 
